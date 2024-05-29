@@ -38,6 +38,7 @@ margin:0;
     font-size:1.125rem;
     font-weight:700;
     text-transform: uppercase;
+    margin-top:1em;
 }   
 
 .btn{
@@ -413,7 +414,7 @@ footer .flex.socials{
 
 .cart-ctrl{
     justify-content: space-between;
-    margin-bottom:1em;
+    margin-bottom:2em;
 }
 
 .cart-ctrl span:first-child{
@@ -438,7 +439,7 @@ footer .flex.socials{
 }
 
 #cart-items{
-    gap:1em;
+    gap:2em;
 }
 
 .cart-item > div > div{
